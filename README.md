@@ -4,24 +4,9 @@ Controller software targeting STM-32 based car hardware with manual and autonomo
 
 <br>
 
-<details>
-<summary>Video demo - Completing a path automatically</summary>
+[Video demo](https://www.youtube.com/shorts/DocepiJrJJk) for completing a path automatically
 
-<br>
-
-https://www.youtube.com/shorts/DocepiJrJJk
-
-</details>
-
-<details>
-<summary>Video demo - Manual Control</summary>
-
-<br>
-Please ignore the cigarettes
-
-https://www.youtube.com/shorts/8Qha08qWrV8
-
-</details>
+[Video demo](https://www.youtube.com/shorts/8Qha08qWrV8) for manual control via joystick
 
 <br>
 
